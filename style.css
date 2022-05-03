@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(29,29,29);
+}
+
+.rating-card {
+    height: 70vh;
+    width: 30vw;
+    background-color: rgb(45,45,45);
+    border-radius: 5%;
+    position: absolute;
+    left: 35vw;
+    top: 15vh;
+ }
